@@ -9,3 +9,7 @@ This is a C# console application that parses notification titles to identify and
 - Ignores irrelevant content and extracts only valid channels.
 - Case-insensitive tag recognition.
 
+## Running the Application
+To run the application, execute the following command:
+
+dotnet run
